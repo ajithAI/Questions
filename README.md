@@ -12,4 +12,4 @@
 1.	What is the training algorithm for Binary classification?
 2.	Explain Logistic Regression with formula.  
 3.	Explain Sigmoid function with formula.
-4.	Explain Logistic Regression Cost Function.  
+4.	Explain Logistic Regression Cost Function with formula.
