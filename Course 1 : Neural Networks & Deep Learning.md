@@ -19,3 +19,10 @@
 7.	Explain Vectorized version of Logistic Regression.
 
 #### Week 3 : 
+1.  Describe Input Layer, Hidden Layer & Output Layer in Neural Network.
+2.  Write Down the Neural Network Representation for 3 Input, Hidden Layer with 4 Nodes & Output Layer with 1 Node netowrk.
+3.  Describe Matrix Dimenssions of the above.
+4.  Describe Matrix Dimenssions of the above with m inputs. ( Use Vectorization : x-axis : m , y-axis : dim )
+5.  Sigmoid vs Tanh vs ReLu vs Leaky ReLu. What is derivate of ReLu ?
+6.  Why we need activation function at all ? What it's purpose ?
+7.  
