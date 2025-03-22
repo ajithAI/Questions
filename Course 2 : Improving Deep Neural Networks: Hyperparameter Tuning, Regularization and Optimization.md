@@ -1,3 +1,8 @@
+
+# Questions
+
+### Course 2 : Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+
 ### Week 1 : 
 1. Explain Bias & Varience.
 2. Explain Bias & Varience wrt to Train Error & Dev Error with example.
