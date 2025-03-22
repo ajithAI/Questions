@@ -25,4 +25,11 @@
 4.  Describe Matrix Dimenssions of the above with m inputs. ( Use Vectorization : x-axis : m , y-axis : dim )
 5.  Sigmoid vs Tanh vs ReLu vs Leaky ReLu. What is derivate of ReLu ?
 6.  Why we need activation function at all ? What it's purpose ?
-7.  
+
+### Week 4 : 
+1. Give notations of Deep Neural Network. (L, n[L], W[L], a[L], yhat etc.)
+2. What are Matrix Dimenssions of DNN. Take an example of 5 Layer DNN and explain the weights dimenssions.
+3. What are Matrix Dimenssions of DNN, when "m" inputs stacked as batch.
+4. Explain the Intutuion behind DNN with examples. ( First Layers, Middle Layers, Final Layers )
+5. Whaty are the Inputs, Output, Cache in forward & backward propagation ?
+6. List all the Hyperparameters in DNN.
