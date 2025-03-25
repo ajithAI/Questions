@@ -26,3 +26,11 @@
 6. Explain ADAM OPTIMIZER with Matchematics.
 7. Explain Learning Rate Decay with various implementation formulas.
 8. Explain Local Optima & Saddle point
+
+
+### Week 3 : 
+1. Explain how to choose Hyper parameters.
+2. Explain about Batch Normalization with Formula. Explain why we dont need Bias parameters if we use BN ?
+3. How co-varience shift issue can be solved with BN.
+4. Explain working of BN at Test Time.
+5. Explain Loss Function when the classifier is Softmax classifier.
