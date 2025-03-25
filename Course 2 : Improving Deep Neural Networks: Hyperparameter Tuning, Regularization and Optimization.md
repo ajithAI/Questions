@@ -15,3 +15,14 @@
 9. List all Regularization Techniques.
 10. Explain Vanishing & Exploding Gradients problem.
 11. How Xiavier Random Initilaization helps in Vanishing/Exploding Problem.
+
+
+### Week 2 : 
+1. Explain Batch vs Mini-Batch.
+2. If Mini-Batch Size = 1, then the Gradient descent algorithm is called ?
+3. Explain the concept of Exponentially Weighted Averages & Bias Correction.
+4. Explain Gradient Descent with Momentum Optimization algorithm.
+5. Explain RMSProp Optimization algorithm with Intuiion behind. ( b vs w ) 
+6. Explain ADAM OPTIMIZER with Matchematics.
+7. Explain Learning Rate Decay with various implementation formulas.
+8. Explain Local Optima & Saddle point
