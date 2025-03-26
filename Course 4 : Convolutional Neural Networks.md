@@ -12,5 +12,5 @@
 6. Explain convolution operation of filter (3x3) on Input image (6x6) with mathematics & dimenssions.
 7. Explain convolution operation of filter (3x3) on Input image (6x6) with Bias & Activation. 
 8. Calculate number of parameters of a convolutional neural networks.
-9. Calculate shape of output given input shape, filter size, padding size & stride. ( ( ( I + 2P - F ) / S ) + 1 )
+9. Calculate shape of output shape, given input shape, filter size, padding size & stride. ( ( ( I + 2P - F ) / S ) + 1 )
 10. 
