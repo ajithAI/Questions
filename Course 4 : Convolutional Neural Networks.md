@@ -13,4 +13,20 @@
 7. Explain convolution operation of filter (3x3) on Input image (6x6) with Bias & Activation. 
 8. Calculate number of parameters of a convolutional neural networks.
 9. Calculate shape of output shape, given input shape, filter size, padding size & stride. ( ( ( I + 2P - F ) / S ) + 1 )
-10. 
+10. Describe Max Poolong & Avg Pooling along with Hyper parameters & Learnable Parameters.
+11. Explain LeNet-5 at Highlevel. ( Input 32x32x1, 2x(Conv+Maxpool), 3xFC )
+12. Why Convolution works ? Explain Parameter Sharing, Sparsity of Connections & Translation invarience.
+
+### Week 2 : 
+1. Explain LeNet-5 in detail.
+2. Explain VGG-16 Network in detail.
+3. Explain ResNet in detail. Why Resnet works better ?
+4. Explain Inception Network in detail. Explain how 1x1 Conv layer can reduce computation costs.
+5. Explain how Transfer Learning can be implemented & how it can be useful ? ( Pre-compute forzen layers ) 
+6. Explain different Data Augmentation Techniques.
+7. How to win Accuracy Benchmarks - Ensembling, Multi-Crop - Multi-Inference.
+
+### Week 3: 
+1. 
+
+
