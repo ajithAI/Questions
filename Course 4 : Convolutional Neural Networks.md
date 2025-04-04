@@ -35,3 +35,9 @@
 6. How object in a image is assigned to grid cell and its anchor box.
 7. Explain Yolo Algorithm in detail with all features.
 
+
+### Week 4 : 
+1. Face Verification vs Face Recognition, Accuracy implicaions.
+2. Explain Saimese Network in detail & explain Triplet Loss Function.
+3. Expalin Similarity Funcion that is used in Face recognition.
+4. Explain working of Neural Style Transfer alorithm.
