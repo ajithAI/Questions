@@ -27,6 +27,11 @@
 7. How to win Accuracy Benchmarks - Ensembling, Multi-Crop - Multi-Inference.
 
 ### Week 3: 
-1. 
-
+1. Difference between Localization vs Detection.
+2. Explain Localization algorithm with Output & Loss function.
+3. Explain Sliding Window Detection & explain why it is inefficient.
+4. Explain Convolution implementation of sliding windows. ( Translation Invarience ) 
+5. Explain IoU, Non-Max Supression.
+6. How object in a image is assigned to grid cell and its anchor box.
+7. Explain Yolo Algorithm in detail with all features.
 
